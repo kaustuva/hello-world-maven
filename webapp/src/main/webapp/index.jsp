@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Openlansolution Devops Technologies !!! </h1>
+<h1> Hi, Welcome to Openlansolution Devops Technologies !!! </h1>
 
